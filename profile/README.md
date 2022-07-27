@@ -7,5 +7,5 @@ T.B.A.
 ## 👩‍💻 Useful resources:
 T.B.A.
 
-## Used technologies and tools:
+## :computer: Used technologies and tools:
 T.B.A.
