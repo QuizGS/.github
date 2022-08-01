@@ -7,6 +7,7 @@ More might be added later! Currently contribution is only internal. Our git flow
 - always use different branches for each feature
 - use a pull request (via GitHub) to merge, and ask sometime to take a peek at your code before it's merged :)
 - then, merge it into the `development` branch once it's done (we'll have a test site deployed here)
+- also, delete merged feature branches (but not `development`) to keep everything clean!
 - then, every so often, we'll merge it into the `main` branch (which is where we'll deploy the production site from)
 
 and anytime you start a new feature you'll want to:
